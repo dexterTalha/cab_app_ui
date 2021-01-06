@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488254668400",
+    "firebase_url": "https://livelocation-c2817.firebaseio.com",
+    "project_id": "livelocation-c2817",
+    "storage_bucket": "livelocation-c2817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488254668400:android:0228b633fbbe985c833eb5",
+        "android_client_info": {
+          "package_name": "com.example.cab_app_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488254668400-tkrdh4b1bjtieilub1uocpl9qukmpks1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cab_app_ui",
+            "certificate_hash": "75ee8c2729eb8a9d098a75b312388bb8b6f2fc8c"
+          }
+        },
+        {
+          "client_id": "488254668400-m4me3ongb6ko13r5hsk5b144c8clkknm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVD5NbxTFup5qFRpjJgRlMpj5oUCQaro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488254668400-m4me3ongb6ko13r5hsk5b144c8clkknm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
